@@ -1,0 +1,20 @@
+p {
+    background-color: dodgerblue;
+    color: salmon;
+    font-size: 10px;
+    border: 4px dotted maroon;
+}
+
+
+
+.text {
+    background-color: blue;
+}
+
+.text-description {
+    border: 5px solid greenyellow;
+}
+
+.first {
+    color: aquamarine;
+}
