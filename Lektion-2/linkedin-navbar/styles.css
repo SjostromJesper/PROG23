@@ -1,0 +1,38 @@
+body {
+    background-color: #f4f2ee;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+align-items: center;
+
+    padding: 4px;
+    background-color: white;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+
+    
+}
+
+ul {
+    display: flex;
+    gap: 8px;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.user {
+    margin: 0 15px;
+}

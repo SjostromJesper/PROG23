@@ -15,6 +15,13 @@ p {
     border: 5px solid greenyellow;
 }
 
+#paragraf {
+    color: green;
+}
+.first {
+ color: red;   
+}
+
 .first {
     color: aquamarine;
 }
