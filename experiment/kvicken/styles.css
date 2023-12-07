@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+}
+
+.move {
+    height: 100px;
+    width: 100px;
+
+    background-color: gold;
+
+    border-radius: 100%;
+
+    position: absolute;
+}
