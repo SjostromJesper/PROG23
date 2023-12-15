@@ -23,10 +23,7 @@ function moveKvicken() {
         posY = 0
     }
 
-
-
-
-    setTimeout(requestAnimationFrame(moveKvicken), 10000)
+    setTimeout(() => requestAnimationFrame(moveKvicken), 1000 / 144)
 }
 
 requestAnimationFrame(moveKvicken)
